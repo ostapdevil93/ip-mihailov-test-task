@@ -1,0 +1,1 @@
+export { default as DressElement } from './ui/dress-element.vue';

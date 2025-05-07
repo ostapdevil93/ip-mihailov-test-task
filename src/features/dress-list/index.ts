@@ -1,0 +1,1 @@
+export { default as DressList } from './ui/dress-list.vue';
